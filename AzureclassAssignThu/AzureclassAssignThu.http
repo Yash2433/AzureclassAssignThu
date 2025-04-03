@@ -1,0 +1,6 @@
+@AzureclassAssignThu_HostAddress = http://localhost:5018
+
+GET {{AzureclassAssignThu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
