@@ -3,7 +3,7 @@ pipeline {
     environment {
         AZURE_CREDENTIALS_ID = 'azure-service-principal'
         RESOURCE_GROUP = 'rg-jenkins'
-        APP_SERVICE_NAME = 'AzureclassAssignThu'
+        APP_SERVICE_NAME = 'jenkins-yd-webapp'
     }
 
     stages {
